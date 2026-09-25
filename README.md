@@ -9,13 +9,10 @@ The objective is to transform option-chain quotes into a volatility surface acro
 
 # ⚙️ Working Conditions
 
-💶 Risk-Free Interest Rate: **\(r = 3\%\)**  
-💸 Dividend Yield: **\(q = 0\%\)**  
+💶 Risk-Free Interest Rate: **r = 3%**  
+💸 Dividend Yield: **q = 0%**  
 
 
-
-
-> **Note:** The option-chain data are retrieved dynamically from Yahoo Finance through the `yfinance` Python package.
 ---
 
 # 🎯 Goal
